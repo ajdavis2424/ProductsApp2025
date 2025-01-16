@@ -1,4 +1,5 @@
 # Products App 2025
+![ProductsApp2025 pic](https://github.com/user-attachments/assets/41d4f591-f23b-4e0a-9eaa-75d64e6d7862)
 
   [![License](https://img.shields.io/static/v1?label=License&message=MIT&color=blue&?style=plastic&logo=appveyor)](https://opensource.org/license/MIT)
 
