@@ -91,6 +91,10 @@ const ProductCard = ({ product }) => {
         h={48}
         w="full"
         objectFit="cover"
+        fallback={<Box h={48} w="full" bg="gray.200" />} // Add fallback
+        onError={(e) => {
+          console.error('Image failed to load:', product.image);
+        }}
       />
 
       <Box p={4}>
